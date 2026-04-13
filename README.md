@@ -4,3 +4,4 @@
 
 ** jira 중간고사 일정표 **
 https://id.atlassian.com/invite/p/jira-software?id=75oPiJKdRaqQoFuBSCMVDg
+엑세스 권한 요청 해주시면 확인하는대로 승인하겠습니다!
