@@ -1,10 +1,10 @@
 ** 프로젝트 1 - 프로젝트 정의서 작성하기 - 문서자료: /doc **
-doc/CustomerRequirement.md
+https://github.com/DlSeokJin/se/blob/a9dc7a62e68e0f1ce6515418731b328be871f285/doc/CustomerRequirement.md
 
 ----------------------------------------------------------------------
 
 ** 프로젝트 2 - 대상 시스템 품질 요소 추정하기 - 문서자료: /doc **
-doc/SysQualitySummary.md
+https://github.com/DlSeokJin/se/blob/a9dc7a62e68e0f1ce6515418731b328be871f285/doc/SysQualitySummary.md
 
 ----------------------------------------------------------------------
 
