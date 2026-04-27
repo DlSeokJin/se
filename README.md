@@ -13,3 +13,6 @@ https://github.com/DlSeokJin/se/blob/a9dc7a62e68e0f1ce6515418731b328be871f285/do
 
 ** 프로젝트 3 - 프로젝트 관리 계획서 작성하기 - 문서자료: /doc **
 https://github.com/DlSeokJin/se/blob/main/doc/ProjManagePlan.md
+
+** 프로젝트 4 - 프로젝트 요구사항 정의서 작성하기 - 문서자료: /doc **
+https://github.com/DlSeokJin/se/blob/main/doc/RequirementDefine.md
