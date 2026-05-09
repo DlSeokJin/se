@@ -90,7 +90,7 @@ flowchart LR
     Admin --> UC2
 
     Sys --> UC8
-
+```
 ---------------------------------------------
 
 #### 2.2.2 UseCase Description (유스케이스 상세 설명)
@@ -112,7 +112,7 @@ flowchart LR
 ## 3. 요구사항 명세
 
 ### 3.1 정적 분석
-
+```mermaid
 classDiagram
     class User {
         +String email
@@ -140,6 +140,7 @@ classDiagram
     User <|-- Admin : 상속
     User "1" -- "0..*" File : 업로드/관리
     File "1" -- "0..*" ShareLink : 링크 생성
+```
 
 ### 3.2 CRC 카드
 
@@ -169,6 +170,7 @@ classDiagram
 ### 3.3 동적 분석
 
 #### 3.3.1 파일 업로드 하기
+```mermaid
 sequenceDiagram
     actor 사용자
     participant 웹브라우저
@@ -182,8 +184,10 @@ sequenceDiagram
     파일DB-->>서버: 5. 저장 완료 (Success)
     서버-->>웹브라우저: 6. 업로드 완료 응답
     웹브라우저-->>사용자: 7. 파일 목록 갱신
+```
 
 #### 3.3.2 공유 링크 생성하기
+```mermaid
 sequenceDiagram
     actor 사용자
     participant 서버
@@ -194,7 +198,7 @@ sequenceDiagram
     서버->>링크DB: 3. URL, 만료일자 저장
     링크DB-->>서버: 4. 저장 완료 (Success)
     서버-->>사용자: 5. 생성된 공유 링크 URL 반환
-
+```
 ------------------------------------------------------------------
 
 ## 4. 인터페이스 분석
