@@ -19,3 +19,6 @@ https://github.com/DlSeokJin/se/blob/main/doc/RequirementDefine.md
 
 ** 프로젝트 4 - 프로젝트 요구사항 분석서 작성하기 - 문서자료: /doc **
 https://github.com/DlSeokJin/se/blob/main/doc/RequirementAnalysis.md
+
+** 프로젝트 5 - 테스트 보고서 작성하기 - 문서자료: /doc **
+https://github.com/DlSeokJin/se/blob/main/doc/TestReport.md
